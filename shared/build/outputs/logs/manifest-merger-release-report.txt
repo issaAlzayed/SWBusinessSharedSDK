@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/issaalzayed/Desktop/Remote/KMP-Pj/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest6690412596478785813.xml:2:13-83
+INJECTED from /Users/issaalzayed/Desktop/Remote/KMP-Pj/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest6690412596478785813.xml:2:13-83
+	package
+		INJECTED from /Users/issaalzayed/Desktop/Remote/KMP-Pj/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest6690412596478785813.xml
+	xmlns:android
+		ADDED from /Users/issaalzayed/Desktop/Remote/KMP-Pj/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest6690412596478785813.xml:2:23-81
+uses-sdk
+INJECTED from /Users/issaalzayed/Desktop/Remote/KMP-Pj/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest6690412596478785813.xml reason: use-sdk injection requested
+INJECTED from /Users/issaalzayed/Desktop/Remote/KMP-Pj/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest6690412596478785813.xml
+INJECTED from /Users/issaalzayed/Desktop/Remote/KMP-Pj/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest6690412596478785813.xml
+	android:targetSdkVersion
+		INJECTED from /Users/issaalzayed/Desktop/Remote/KMP-Pj/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest6690412596478785813.xml
+	android:minSdkVersion
+		INJECTED from /Users/issaalzayed/Desktop/Remote/KMP-Pj/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest6690412596478785813.xml

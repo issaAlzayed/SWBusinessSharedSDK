@@ -1,0 +1,5 @@
+com.neomena.lulunetworking.test.shared-androidTest-0 /Users/issaalzayed/Desktop/Remote/KMP-Pj/shared/build/generated/res/resValues/androidTest/debug
+com.neomena.lulunetworking.test.shared-mergeDebugAndroidTestResources-1 /Users/issaalzayed/Desktop/Remote/KMP-Pj/shared/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.neomena.lulunetworking.test.shared-mergeDebugAndroidTestResources-2 /Users/issaalzayed/Desktop/Remote/KMP-Pj/shared/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.neomena.lulunetworking.test.shared-debugAndroidTest-3 /Users/issaalzayed/Desktop/Remote/KMP-Pj/shared/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
+com.neomena.lulunetworking.test.shared-debug-4 /Users/issaalzayed/Desktop/Remote/KMP-Pj/shared/build/intermediates/packaged_res/debug/packageDebugResources

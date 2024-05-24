@@ -1,0 +1,8 @@
+framework module SWBusinessSharedSDK {
+    umbrella header "SWBusinessSharedSDK.h"
+
+    export *
+    module * { export * }
+
+    use Foundation
+}
