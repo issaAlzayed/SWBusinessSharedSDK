@@ -1,0 +1,10 @@
+#Thu May 23 13:23:49 EEST 2024
+base.0=/Users/issaalzayed/Desktop/Remote/KMP-Pj/shared/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+base.1=/Users/issaalzayed/Desktop/Remote/KMP-Pj/shared/build/intermediates/dex/debugAndroidTest/mergeLibDexDebugAndroidTest/3/classes.dex
+base.2=/Users/issaalzayed/Desktop/Remote/KMP-Pj/shared/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+path.0=classes.dex
+path.1=3/classes.dex
+path.2=0/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
